@@ -1,5 +1,5 @@
 # Gerenciador de Registros com Python e MySQL
-
+## <p align="center"> Visitantes: <img alingn="center"  src="https://profile-counter.glitch.me/SouJunior/count.svg" /></p>
 Este é um simples gerenciador de registros desenvolvido em Python utilizando a biblioteca MySQL Connector para interagir com um banco de dados MySQL. O programa oferece uma interface gráfica básica criada com a biblioteca Tkinter para realizar operações CRUD (Create, Read, Update, Delete) em registros de uma tabela específica do banco de dados.
 
 ## Pré-requisitos
